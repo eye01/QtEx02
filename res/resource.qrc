@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>90.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>btn/btn_1_01.png</file>
+        <file>btn/btn_1_02.png</file>
+        <file>btn/btn_1_03.png</file>
+        <file>btn/btn_1_04.png</file>
+        <file>btn/btn_1_05.png</file>
+        <file>btn/btn_1_06.png</file>
+        <file>btn/btn_1_07.png</file>
+        <file>btn/btn_1_08.png</file>
+        <file>btn/btn_1_09.png</file>
+    </qresource>
+</RCC>
